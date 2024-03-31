@@ -983,9 +983,9 @@ media-querries-START
     }
 }
 @media(max-width:376px){
-    .first-container{
+    /* .first-container{
 
-    }
+    } */
     .second-container{
        top: 86vh; 
     }
